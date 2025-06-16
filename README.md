@@ -2,7 +2,9 @@
 
 Proyek ini adalah submission untuk kelas "Belajar Machine Learning untuk Pemula" di Dicoding. Tujuannya adalah untuk membuat model _machine learning_ yang dapat mengklasifikasikan gambar tangan yang membentuk simbol gunting, batu, atau kertas.
 
-![Submission Info](https://storage.googleapis.com/gweb-cloud-media-ie-dk/images/Screenshot_2025-06-15_235230.width-1536.format-png.png)
+<p align="center">
+  <img src="https://github.com/KMoex-HZ/ML-rockpaperscissors/blob/main/Screenshot%202025-06-16%20190301.png" alt="Demo" width="400">
+</p>
 
 ## Deskripsi Proyek
 
